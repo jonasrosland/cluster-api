@@ -1,5 +1,10 @@
 # The Cluster API Book <div style="float: right; position: relative; display: inline;"><img src="images/introduction.png" width="160px" /></div>
 
+
+## Other languages
+
+* [Japanese](/jp)
+
 **Note:** Impatient readers may head straight to [Quick
 Start](./user/quick-start.md).
 

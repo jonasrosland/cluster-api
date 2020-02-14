@@ -1,9 +1,5 @@
 # Summary
 
-## Other languages
-
-* Japanese
-
 [Introduction](./introduction.md)
 [Quick Start](./user/quick-start.md)
 [Concepts](./user/concepts.md)
