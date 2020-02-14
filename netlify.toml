@@ -1,7 +1,7 @@
 # Netlify build instructions
-[build]
-    command = "./docs/book/install-and-build.sh"
-    publish = "docs/book/book"
+#[build]
+#    command = "./docs/book/install-and-build.sh"
+#    publish = "docs/book/book"
 
 # Standard Netlify redirects
 [[redirects]]
