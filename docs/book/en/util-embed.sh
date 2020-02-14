@@ -18,6 +18,6 @@ set -o errexit
 set -o nounset
 set -o pipefail
 
-RELEASELINK="../../hack/tools/bin/mdbook-releaselink"
-make ${RELEASELINK} &>/dev/null
-${RELEASELINK} "$@"
+EMBED="../../../hack/tools/bin/mdbook-embed"
+make ${EMBED} &>/dev/null
+${EMBED} "$@"

@@ -11,7 +11,6 @@ The Cluster API is a Kubernetes project to bring declarative, Kubernetes-style A
 configuration, and management. It provides optional, additive functionality on top of core Kubernetes to
 manage the lifecycle of a Kubernetes cluster.
 
+{{#include ../../../scope-and-objectives.md:Goals}}
 
-{{#include ../../scope-and-objectives.md:Goals}}
-
-{{#include ../../../README.md:Community}}
+{{#include ../../../../README.md:Community}}

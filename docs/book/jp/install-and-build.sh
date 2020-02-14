@@ -61,5 +61,4 @@ ${cmd} /tmp/mdbook.${ext}
 chmod +x /tmp/mdbook
 
 # Finally build the book.
-(cd docs/book/en && /tmp/mdbook build -d ../book)
-(cd docs/book/jp && /tmp/mdbook build -d ../book/jp)
+(cd docs/book && /tmp/mdbook build)
